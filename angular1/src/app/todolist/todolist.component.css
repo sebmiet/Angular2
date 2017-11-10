@@ -1,0 +1,16 @@
+h1
+{
+	color: red;
+}
+.delete-icon
+{
+	cursor: pointer;
+}
+.delete-icon:hover
+{
+	color: red;
+}
+.checked
+{
+	text-decoration: line-through;
+}

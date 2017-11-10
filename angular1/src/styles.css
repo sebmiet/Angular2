@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+	background-color: black;
+	color: white;
+	font-type: Sans-serif;
+}
+h4
+{
+	font-size: 48px;
+}
+h2 a
+{
+	text-decoration: none;
+	color: red;
+	font-family: Sans-serif;
+}
+h2 a:hover
+{
+	color: green;
+	font-style: bold;
+}
+
